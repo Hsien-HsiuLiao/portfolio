@@ -1,0 +1,46 @@
+/*
+<link href="https://fonts.googleapis.com/css?family=Lobster" rel="stylesheet" type="text/css">
+*/
+#navbar{
+  /*position:fixed;*/
+  text-align:right;
+  
+}
+#navbar2{
+  position:fixed;
+  text-align:right;
+  
+}
+#welcome-section {
+  background-color:red;
+  height:250px;
+  text-align:center;
+}
+
+@media (min-height:100%) {
+  #welcome-section {
+ 
+  height:100%;
+  }
+}
+
+
+
+  .red-text {
+    color: red;
+  }
+.text-primary{
+  color:yellow;
+}
+
+  h2 {
+    font-family: Lobster, Monospace;
+  }
+
+  p {
+    font-size: 16px;
+    font-family: Monospace;
+  }
+    .blue-background {
+    background-color: blue;
+  }
